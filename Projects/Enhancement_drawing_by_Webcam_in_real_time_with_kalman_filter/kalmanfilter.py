@@ -1,5 +1,5 @@
 """
-@Project: Enhancement drawing with a pen by Webcam in real time with the Kalman filter
+@Project: Drawing Enhancement using Webcam in real-time by the Kalman filter
 @author: Mhd Ali Harmalani
 @supervisor: Dr. Raouf Hamdan
 """
